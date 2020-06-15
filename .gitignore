@@ -1,0 +1,7 @@
+<Following to be ignored>
+
+*iml
+.idea
+out
+index.md
+*.yml
